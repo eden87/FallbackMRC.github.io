@@ -7,10 +7,6 @@ subtitle: 엣지 기반 자율주행 기능의 Fall back MRC에 따른 운영권
 
 ---
 
-- 연구 개발 사업 개요(사업기간, 연구비용, 참여기관)
-
-![1](/assets/img/Consortium_kiapi/1.png)
-
 - 연구 개발 전체 평가 구성 방안
 
 ![2](/assets/img/about_Fall_back MRC/2.jpg)
