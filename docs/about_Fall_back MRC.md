@@ -25,7 +25,7 @@ subtitle: 엣지 기반 자율주행 기능의 Fall back MRC에 따른 운영권
     - 추진 배경
         - 안전한 자율주행을 위하여 돌발 및 긴급상황(운전자와 자율주행 시스템 문제, 운영설계범위 범위 이탈 등)에서 발생할 수 있는 시스템의 성능 저하, 복구 가능성 등에 대한 분석으로 주행 안전성 확보를 목표로 함
         
-        ![4.jpg](/assets/img/about_Fall_back MRC/4.jpg)
+     ![4.jpg](/assets/img/about_Fall_back MRC/4.jpg)
         
 
 - 기술적 연구 접근 방향
@@ -33,7 +33,7 @@ subtitle: 엣지 기반 자율주행 기능의 Fall back MRC에 따른 운영권
     - 기존 오작동에 대한 차량의 고장과 안전성 평가 방법으로는 4급 엣지 기반 자율주행 시스템 오작동에 대한 평가와 대응능력이 불가능하여 차량-엣지 통합 기술 개발을 통해 Lv.4급 자율주행 시스템의 오류 상황판단과 비상상황 대처기능에 대한 진보된 평가 기술 개발과 대응 방안을 도출하고자 함
     - 4급 차량-엣지 자율주행차량은 오작동에 대해 최소위험상태(MRC: Minimal Risk Condition) 도달까지 비상상황 대처(DDT fallback)가 주체적으로 동작하는지 검증하고자 함
         
-        ![5.jpg](/assets/img/about_Fall_back MRC/5.jpg)
+     ![5.jpg](/assets/img/about_Fall_back MRC/5.jpg)
         
 
 2. 과제목표
@@ -47,7 +47,7 @@ subtitle: 엣지 기반 자율주행 기능의 Fall back MRC에 따른 운영권
     - 엣지 기반 자율주행 실차/시뮬레이션 검증 환경 및 알고리즘 개발
     - 기 실증 환경 업데이트 개발 및 운용
         
-        ![6](/assets/img/about_Fall_back MRC/6.jpg)
+     ![6](/assets/img/about_Fall_back MRC/6.jpg)
         
     
 
