@@ -24,12 +24,15 @@ navbar-links:
     - Fall-back MRC: "about_Fall_back MRC"
 
   Consortium:
-    - Consortium-Member : "Consortium_Member"
+    - Consortium-Member: "Consortium_Member"
     - Kiapi: "Consortium_kiapi"
 
-  Parts:
-    - System Fusion: "parts_systemfusion"
-    - Digital Twin: "parts_digitaltwin"
+  PUBLICATIONS:
+    - 2021: "parts_systemfusion"
+    - 2022: "parts_digitaltwin"
+
+  RESULTS:
+
   KIAPI Webpage: "http://www.kiapi.or.kr"
 
 ################
