@@ -21,8 +21,8 @@ author: Bong-Seob Kim
 
 navbar-links:
   About:
-    - Kiapi: "about_kiapi"
-    - Our Team: "about_ourteam"
+    - Kiapi: "about_KIAPI"
+    - Fall-back MRC: "about_Fall_back MRC"
   Project:
     - Fallback MRC: "project_fallbackMRC"
     - Multi Agent: "project_multiagent"
