@@ -21,12 +21,12 @@ author: Bong-Seob Kim
 
 navbar-links:
   About:
-    - Kiapi: "about_KIAPI"
     - Fall-back MRC: "about_Fall_back MRC"
-  Project:
-    - Fallback MRC: "project_fallbackMRC"
-    - Multi Agent: "project_multiagent"
-    - Learning Data: "https://thkim1351.github.io/kiapi-learn-data.github.io/#"
+    
+  Consortium:
+    - Consortium-Member : "Consortium_Member"
+    - Kiapi: "Consortium_KIAPI"
+
   Parts:
     - System Fusion: "parts_systemfusion"
     - Digital Twin: "parts_digitaltwin"
