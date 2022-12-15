@@ -7,28 +7,28 @@ subtitle: 엣지 기반 자율주행 기능의 Fall back MRC에 따른 운영권
 ### Consortium
 
 
- ![KIAPI](/assets/img/Consortium_member/KIAPI.jpg)
+ ![KIAPI](/assets/img/Consortium_member/kiapi.jpg)
  Korea Intelligent Automotive Parts Promotion Institute(KIAPI)
  지능형자동차부품진흥원
 
- ![ETRI](/assets/img/Consortium_member/ETRI.jpg)
+ ![ETRI](/assets/img/Consortium_member/etri.jpg)
  Electronics and Telecommunications Research Institute
  한국전자통신연구원
 
- ![KETI](/assets/img/Consortium_member/KETI.jpg)
+ ![KETI](/assets/img/Consortium_member/keti.jpg)
  Korea Electronics Technology Institute
  한국전자기술연구원
 
- ![KATECH](/assets/img/Consortium_member/KATECH.jpg)
+ ![KATECH](/assets/img/Consortium_member/katech.jpg)
  Korea Automotive Technology Institute
  한국자동차연구원
 
- ![TUVSUD](/assets/img/Consortium_member/TUVSUD.jpg)
+ ![TUVSUD](/assets/img/Consortium_member/tuvsud.jpg)
  TUVSUD
 
- ![SNU](/assets/img/Consortium_member/SNU.jpg)
+ ![SNU](/assets/img/Consortium_member/snu.jpg)
  서울대학교
 
- ![MORAI](/assets/img/Consortium_member/MORAI.jpg)
+ ![MORAI](/assets/img/Consortium_member/morai.jpg)
  MORAI
  모라이
