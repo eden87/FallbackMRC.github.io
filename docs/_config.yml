@@ -22,10 +22,10 @@ author: Bong-Seob Kim
 navbar-links:
   About:
     - Fall-back MRC: "about_Fall_back MRC"
-    
+
   Consortium:
     - Consortium-Member : "Consortium_Member"
-    - Kiapi: "Consortium_KIAPI"
+    - Kiapi: "Consortium_kiapi"
 
   Parts:
     - System Fusion: "parts_systemfusion"
