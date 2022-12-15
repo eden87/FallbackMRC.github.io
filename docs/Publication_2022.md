@@ -1,6 +1,6 @@
 ---
 layout: page
-title: PUBLICATIONS
+title: PUBLICATIONS_2022
 subtitle: 2021
 ---
 
