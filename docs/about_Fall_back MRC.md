@@ -1,16 +1,17 @@
 # Fallback MRC
 
+
 1. 사업 개요
 
 ---
 
 - 연구 개발 사업 개요(사업기간, 연구비용, 참여기관)
 
-![Untitled](/assets/img/about_Fall_back MRC//Untitled.png)
+![1](/assets/img/Consortium_kiapi//1.png)
 
 - 연구 개발 전체 평가 구성 방안
 
-![1. 연구개발과제 정의.jpg](/assets/img/about_Fall_back MRC/1._연구개발과제_정의.jpg)
+![2](/assets/img/about_Fall_back MRC/2.jpg)
 
 2. 연구개발과제 추진 배경
 
@@ -21,12 +22,12 @@
     - 테슬라, Ford, Daimler 등 차량 통신모듈을 활용한 엣지 기반 무선 소프트웨어 기능(OTA, Over the air)의 경우 실시간 새로운 기능에 대하여 업데이트 할 경우 해킹과 같은 위협을 방어할 수 있는 장점이 있으나, 자율주행 시스템의 안전성 및 시스템 무결성을 깨트릴 수 있는 위험 사항이 발생할 수 있으므로 이에 대한 검증 방법 도출이 필요함
     - 안전한 자율주행(Lv.4)의 경우 운전자가 개입하지 않은 상태에서 시스템의 위험 사항을 판단하여 이를 대응 방안을 도출하고 안전한 방안으로 대응이 가능한지 검증이 필요함
     
-    ![2. 연구개발과제 문제 정의 및 필요성.jpg](/assets/img/about_Fall_back MRC/2._연구개발과제_문제_정의_및_필요성.jpg)
+    ![3.jpg](/assets/img/about_Fall_back MRC/3.jpg)
     
     - 추진 배경
         - 안전한 자율주행을 위하여 돌발 및 긴급상황(운전자와 자율주행 시스템 문제, 운영설계범위 범위 이탈 등)에서 발생할 수 있는 시스템의 성능 저하, 복구 가능성 등에 대한 분석으로 주행 안전성 확보를 목표로 함
         
-        ![3. 연구개발과제 추진 배경.jpg](/assets/img/about_Fall_back MRC/3._연구개발과제_추진_배경.jpg)
+        ![4.jpg](/assets/img/about_Fall_back MRC/4.jpg)
         
 
 - 기술적 연구 접근 방향
@@ -34,7 +35,7 @@
     - 기존 오작동에 대한 차량의 고장과 안전성 평가 방법으로는 4급 엣지 기반 자율주행 시스템 오작동에 대한 평가와 대응능력이 불가능하여 차량-엣지 통합 기술 개발을 통해 Lv.4급 자율주행 시스템의 오류 상황판단과 비상상황 대처기능에 대한 진보된 평가 기술 개발과 대응 방안을 도출하고자 함
     - 4급 차량-엣지 자율주행차량은 오작동에 대해 최소위험상태(MRC: Minimal Risk Condition) 도달까지 비상상황 대처(DDT fallback)가 주체적으로 동작하는지 검증하고자 함
         
-        ![4. 기술적 연구 접근 방향.jpg](/assets/img/about_Fall_back MRC/4._기술적_연구_접근_방향.jpg)
+        ![5.jpg](/assets/img/about_Fall_back MRC/5.jpg)
         
 
 2. 과제목표
@@ -48,7 +49,7 @@
     - 엣지 기반 자율주행 실차/시뮬레이션 검증 환경 및 알고리즘 개발
     - 기 실증 환경 업데이트 개발 및 운용
         
-        ![5. 핵심목표.jpg](/assets/img/about_Fall_back MRC/5._핵심목표.jpg)
+        ![6](/assets/img/about_Fall_back MRC/6.jpg)
         
     
 
@@ -56,7 +57,7 @@
 
 ---
 
-![6. 연차별 과제추진 계획.jpg](/assets/img/about_Fall_back MRC/6._연차별_과제추진_계획.jpg)
+![7.jpg](/assets/img/about_Fall_back MRC/7.jpg)
 
 - 1차년도
     - 엣지 기반 자율주행 운행환경 모델링 및 위험요소, 요구사항 분석
@@ -141,7 +142,7 @@
     - 엣지 자율주행차량 SW 안전성을 진단 및 예측하고, 가동 중단이 허용되지 않는 자율주행 시스템의 사이버 복원력 확보 기준 개발
     - 엣지 기반 차량 자율주행 시스템을 폐쇄된 시험장 내에서 모의 테스트를 진행하여 핵심 기능 작동 및 복원력 평가 기술 개발
     
-    ![3.연차별 과제추진 체계.jpg](/assets/img/about_Fall_back MRC/7.연차별_과제추진_체계.jpg)
+    ![8](/assets/img/about_Fall_back MRC/8.jpg)
     
 
 5. 최종 결과물 구성도
@@ -150,6 +151,6 @@
 
 - 본 과제의 D 분과 과제와 결과물 연계 구성도
 
-![9. 최종 결과물 구성도.jpg](/assets/img/about_Fall_back MRC/8._최종_결과물_구성도.jpg)
+![9](/assets/img/about_Fall_back MRC/9.jpg)
 
 안전한 자율주행을 위하여 돌발 및 긴급상황(운전자와 자율주행 시스템 문제, 운영설계범위 범위 이탈 등)에서 발생할 수 있는 시스템의 성능 저하, 복구 가능성 등에 대한 분석으로 주행 안전성 확보를 목표로 함
