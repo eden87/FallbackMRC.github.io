@@ -24,7 +24,7 @@ navbar-links:
     - Fall-back MRC: "about_Fall_back MRC"
 
   Consortium:
-    - Consortium-Member: "Consortium_member"
+    - Consortium-Member: "consortium"
     - Kiapi: "Consortium_kiapi"
 
   PUBLICATIONS:
